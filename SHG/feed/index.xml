@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OSS_TEST</title>
+	<atom:link href="/path/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/</link>
+	<description>다른 워드프레스 사이트</description>
+	<lastBuildDate>Sat, 03 Dec 2016 22:35:16 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>안녕하세요!</title>
+		<link>/path/2016/12/04/hello-world/</link>
+		<comments>/path/2016/12/04/hello-world/#comments</comments>
+		<pubDate>Sat, 03 Dec 2016 22:15:08 +0000</pubDate>
+		<dc:creator><![CDATA[user]]></dc:creator>
+				<category><![CDATA[미분류]]></category>
+
+		<guid isPermaLink="false">/path/?p=1</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><a href="https://cld.bz/users/trial-FitHa1y/Quick-Start-Guide" class="cld-embed" data-cld-width="1600px" data-cld-height="900px">https://cld.bz/users/trial-FitHa1y/Quick-Start-Guide</a><script async defer src="https://cld.bz/content/embed-boot/boot.js"></script></p>
+]]></content:encoded>
+			<wfw:commentRss>/path/2016/12/04/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

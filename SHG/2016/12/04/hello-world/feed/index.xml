@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>댓글 : 안녕하세요!</title>
+	<atom:link href="/path/2016/12/04/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/2016/12/04/hello-world/</link>
+	<description>다른 워드프레스 사이트</description>
+	<lastBuildDate>Sat, 03 Dec 2016 22:15:08 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>워드프레스 댓글 작성자이(가) 만듦</title>
+		<link>/path/2016/12/04/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[워드프레스 댓글 작성자]]></dc:creator>
+		<pubDate>Sat, 03 Dec 2016 22:15:08 +0000</pubDate>
+		<guid isPermaLink="false">/path/?p=1#comment-1</guid>
+		<description><![CDATA[안녕하세요, 이거은 댓글입니다.
+댓글의 검토, 편집, 삭제를 시작하려면 관리자 화면의 댓글 화면으로 가세요.
+댓글 작성자의 아바타는 &lt;a href=&quot;https://gravatar.com&quot;&gt;그라바타&lt;/a&gt;에서 전송됩니다.]]></description>
+		<content:encoded><![CDATA[<p>안녕하세요, 이거은 댓글입니다.<br />
+댓글의 검토, 편집, 삭제를 시작하려면 관리자 화면의 댓글 화면으로 가세요.<br />
+댓글 작성자의 아바타는 <a href="https://gravatar.com/">그라바타</a>에서 전송됩니다.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

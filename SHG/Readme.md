@@ -1,9 +1,9 @@
 #-SHG 작업공간
 
- *test Domain : http://shg-oss.esy.es/ <Br>
+ *test Domain : http://shg-oss.esy.es/ 
 
 ##(Design)
- github Static Page에 wordpress의 테마와 플러그인을 적용하여 사용자에게 보여준다.
+ github Static Page에 wordpress의 테마와 플러그인을 적용하여 사용자에게 보여준다.<Br/>
  FlippingBook과 같은 책장 넘기기와 같이, 유사 PPT형식으로 적용된 플러그인과 발표 할 예정
 
  *각 장에 적용된 플러그인에 대해서 책장 밑에 설명이 나올 수 있도록 디자인
@@ -44,13 +44,10 @@
  -Thema
 
 ##Plugin
- -FlippingBook [대체 필요]
-src	: https://ko.wordpress.org/plugins/flippingbook/faq/
+ -FlippingBook [대체 필요](https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
+  how-to : https://flippingbook.com/account/software
 
-사용법	: https://flippingbook.com/account/software
-
- -Simply Static
-src	: https://wordpress.org/plugins/simply-static/screenshots/
+ -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)
 
 ##PASS
  -Theme

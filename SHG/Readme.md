@@ -1,6 +1,7 @@
-###-SHG 작업공간
+#-SHG 작업공간
 
-test Domain : http://shg-oss.esy.es/ <Br>
+ *test Domain : http://shg-oss.esy.es/ <Br>
+
 ##(Design)
  github Static Page에 wordpress의 테마와 플러그인을 적용하여 사용자에게 보여준다.
  FlippingBook과 같은 책장 넘기기와 같이, 유사 PPT형식으로 적용된 플러그인과 발표 할 예정
@@ -40,20 +41,20 @@ test Domain : http://shg-oss.esy.es/ <Br>
 
 
 ##적용
-#Thema
+ -Thema
 
-#Plugin
-#-FlippingBook [대체 필요]
+##Plugin
+ -FlippingBook [대체 필요]
 src	: https://ko.wordpress.org/plugins/flippingbook/faq/
+
 사용법	: https://flippingbook.com/account/software
 
-#-Simply Static
+ -Simply Static
 src	: https://wordpress.org/plugins/simply-static/screenshots/
 
 ##PASS
- #Theme
- #-Touchfolio
- src	: http://dimsemenov.com/themes/touchfolio/demo/#with-pattern
+ -Theme
+ Touchfolio (http://dimsemenov.com/themes/touchfolio/demo/#with-pattern)
 
 
 ##Problem

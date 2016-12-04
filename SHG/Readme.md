@@ -44,7 +44,7 @@
  -Thema
 
 ##Plugin
- -FlippingBook [대체 필요](https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
+ -FlippingBook [대체 필요] (https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
   how-to : https://flippingbook.com/account/software
 
  -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)

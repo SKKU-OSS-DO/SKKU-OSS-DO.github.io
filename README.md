@@ -12,6 +12,6 @@
 진우현 : W.hyun
 
 
-###Github Page
-Case1 : https://skku-oss-do.github.io/SHG/
+###Github Page (TEST)
+Case1 : https://skku-oss-do.github.io/SHG/ <br/>
 Case2 : https://skku-oss-do.github.io/KDY/

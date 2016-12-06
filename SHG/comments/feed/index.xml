@@ -6,27 +6,42 @@
 	
 	>
 <channel>
-	<title>OSS_TEST를 위한 댓글</title>
-	<atom:link href="/path/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/path/</link>
+	<title>OSS-도-TEST를 위한 댓글</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>다른 워드프레스 사이트</description>
-	<lastBuildDate>Sat, 03 Dec 2016 22:15:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Dec 2016 18:56:26 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<generator>https://wordpress.org/?v=4.4.5</generator>
 	<item>
-		<title>워드프레스 댓글 작성자가 쓴 안녕하세요!의 댓글</title>
-		<link>/path/2016/12/04/hello-world/#comment-1</link>
-		<dc:creator><![CDATA[워드프레스 댓글 작성자]]></dc:creator>
-		<pubDate>Sat, 03 Dec 2016 22:15:08 +0000</pubDate>
-		<guid isPermaLink="false">/path/?p=1#comment-1</guid>
-		<description><![CDATA[안녕하세요, 이거은 댓글입니다.
-댓글의 검토, 편집, 삭제를 시작하려면 관리자 화면의 댓글 화면으로 가세요.
-댓글 작성자의 아바타는 &lt;a href=&quot;https://gravatar.com&quot;&gt;그라바타&lt;/a&gt;에서 전송됩니다.]]></description>
-		<content:encoded><![CDATA[<p>안녕하세요, 이거은 댓글입니다.<br />
-댓글의 검토, 편집, 삭제를 시작하려면 관리자 화면의 댓글 화면으로 가세요.<br />
-댓글 작성자의 아바타는 <a href="https://gravatar.com/">그라바타</a>에서 전송됩니다.</p>
+		<title>워드프레스 씨가 쓴 안녕하세요!의 댓글</title>
+		<link>/2016/12/07/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[워드프레스 씨]]></dc:creator>
+		<pubDate>Tue, 06 Dec 2016 18:56:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<description><![CDATA[안녕하세요. 이것은 댓글입니다. 댓글을 지우려면 먼저 로그인을 한 후 다시 댓글을 보세요. 그러면 댓글을 고치거나 지우는 옵션이 보일 것입니다.]]></description>
+		<content:encoded><![CDATA[<p>안녕하세요. 이것은 댓글입니다. 댓글을 지우려면 먼저 로그인을 한 후 다시 댓글을 보세요. 그러면 댓글을 고치거나 지우는 옵션이 보일 것입니다.</p>
 ]]></content:encoded>
+	</item>
+	<item>
+		<title>badjohnny가 쓴 Music Listening의 댓글</title>
+		<link>/portfolio/music-listening/#comment-4</link>
+		<dc:creator><![CDATA[badjohnny]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2014 09:20:04 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.themevan.com/magicbook-fashion/?post_type=portfolio&#038;p=125#comment-4</guid>
+		<description><![CDATA[test]]></description>
+		<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>익명가 쓴 Lorem ipsum dolor sit amet의 댓글</title>
+		<link>/2014/09/02/hello-world-2/#comment-5</link>
+		<dc:creator><![CDATA[익명]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2014 07:54:23 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.themevan.com/magicbook-fashion/?p=1#comment-5</guid>
+		<description><![CDATA[]]></description>
+		<content:encoded><![CDATA[]]></content:encoded>
 	</item>
 </channel>
 </rss>

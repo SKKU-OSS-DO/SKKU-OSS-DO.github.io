@@ -13,61 +13,68 @@
  개요 - 참여활동
  
  (4-5page)
- Wordpress 1차 발표자료[PPT] / link Wiki
- 참여자 역할 소개
-OSS 프로젝트 조사발표 도팀 발표자료입니다.
-발표자 김진현 진우현
-https://www.slideshare.net/secret/BdM2JZmOeVgtwZ
+ Wordpress 1차 발표자료[PPT] / link Wiki<Br/>
+ 참여자 역할 소개<Br/>
+OSS 프로젝트 조사발표 도팀 발표자료입니다.<Br/>
+발표자 김진현 진우현<Br/>
+https://www.slideshare.net/secret/BdM2JZmOeVgtwZ<Br/>
 
  (6-7page)
- AGPL 2차 발표자료[PPT] / link Wiki
- 참여자 역할 소개
+ AGPL 2차 발표자료[PPT] / link Wiki<Br/>
+ 참여자 역할 소개<Br/>
 
-OSS 라이센스 조사발표 GNU Affero GPL 3.0 도팀
-발표자 박태록 서재학
-https://www.slideshare.net/secret/uLncs7T1jo2TFT
+OSS 라이센스 조사발표 GNU Affero GPL 3.0 도팀<Br/>
+발표자 박태록 서재학<Br/>
+https://www.slideshare.net/secret/uLncs7T1jo2TFT<Br/>
 
  (8-9page)
 
- WordPress 관련 단체 소개 및 News Feed 구성 및 활동 연계 제시(1)
- 오픈소스소프트웨어개론 팀구성발표 도 
- 발표자 - 고대영, 김완석
- https://www.slideshare.net/secret/LBFAqTR8fnLrZz
+ WordPress 관련 단체 소개 및 News Feed 구성 및 활동 연계 제시(1)<Br/>
+ 오픈소스소프트웨어개론 팀구성발표 도 <Br/>
+ 발표자 - 고대영, 김완석<Br/>
+ https://www.slideshare.net/secret/LBFAqTR8fnLrZz<Br/>
+ 
  (10-11page)
- WordPress 관련 단체 소개 및 News Feed 구성 및 활동 연계 제시(2)
+
+ WordPress 관련 단체 소개 및 News Feed 구성 및 활동 연계 제시(2)<Br/>
 
  (12-13page)
- 프로젝트 활동 제시
 
- (14-15page)
+ 프로젝트 활동 제시<Br/>
+
+ (14-15page)<Br/>
+ 
  맺음말
 
- (16Page)
+ (16Page)<Br/>
+ 
  마무리
 
  [ETC]
- sound - 
+ 
+ sound - <Br/>
 
 
 ##적용
- ###Thema
- -magicBook [GPL] (https://themeforest.net/item/magicbook-a-3d-flip-book-wordpress-theme/8808169)
-###Plugin
- -FlippingBook *대체 필요 (https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
-  how-to : https://flippingbook.com/account/software
+###Thema
+ -magicBook [GPL] (https://themeforest.net/item/magicbook-a-3d-flip-book-wordpress-theme/8808169) <Br/>
 
- -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)
+###Plugin
+ SlideShare for WordPress by Yoast
+ 필수설치 Plugin
+ gallery-metabox
+ Visual Composer
+
 
 ##PASS
  ###Theme
- Touchfolio (http://dimsemenov.com/themes/touchfolio/demo/#with-pattern)
+ Touchfolio (http://dimsemenov.com/themes/touchfolio/demo/#with-pattern)<Br/>
  
  ###Plugin
-
-
+ -FlippingBook *대체 필요 (https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
+  how-to : https://flippingbook.com/account/software <Br/>
+  -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)<Br/>
 ##Problem
  1) wordpress Theme 적용시 모바일 형식도 지원을하지만, Simply Static으로 추출 된 경우 적용이 되지 않는다
  
 ##Trouble shooting
- 
- 

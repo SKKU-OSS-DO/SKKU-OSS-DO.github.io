@@ -1,6 +1,6 @@
 #-SHG 작업공간
  *test Domain : http://shg-oss.esy.es/ <br/>
- *github Page : https://skku-oss-do.github.io/SHG/
+ *github Page : https://skku-oss-do.github.io/SHG/ <br/>
 ##(Design)
  github Static Page에 wordpress의 테마와 플러그인을 적용하여 사용자에게 보여준다.<Br/>
  FlippingBook과 같은 책장 넘기기와 같이, 유사 PPT형식으로 적용된 플러그인과 발표 할 예정

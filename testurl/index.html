@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="ko-KR"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="ko-KR"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="ko-KR"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="ko-KR"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>OSS-도-TEST | 다른 워드프레스 사이트</title>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/> 
+    	<!-- Mobile Specific Metas
+  ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> 
+    
+	<!--[if lt IE 9]>
+    <script src="http://shg-oss.esy.es/wp-content/themes/magicbook/js/html5shiv.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://shg-oss.esy.es/wp-content/themes/magicbook/js/selectivizr-min.js"></script>
+    <script type="text/javascript" src="http://shg-oss.esy.es/wp-content/themes/magicbook/js/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+		template_url="http://shg-oss.esy.es/wp-content/themes/magicbook";
+	    is_home=1;
+		</script><meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="OSS-도-TEST &raquo; 피드" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="OSS-도-TEST &raquo; 댓글 피드" href="comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/shg-oss.esy.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-css'  href='wp-content/themes/magicbook/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bookblock-css'  href='wp-content/themes/magicbook/css/bookblock.css' type='text/css' media='all' />
+<link rel='stylesheet' id='component-css'  href='wp-content/themes/magicbook/css/component.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bjqs-css'  href='wp-content/themes/magicbook/css/bjqs.css' type='text/css' media='all' />
+<link rel='stylesheet' id='perfect-scrollbar-css'  href='wp-content/themes/magicbook/css/perfect-scrollbar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css'  href='wp-content/themes/magicbook/css/reset.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='wp-content/themes/magicbook/css/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='wp-content/themes/magicbook/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='layout-responsive-css'  href='wp-content/themes/magicbook/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Tulpen-one-font-css'  href='http://fonts.googleapis.com/css?family=Tulpen+One' type='text/css' media='all' />
+<link rel='stylesheet' id='Roboto-font-css'  href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,900,900italic&#038;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='Arimo-font-css'  href='http://fonts.googleapis.com/css?family=Arimo:400,700&#038;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='Raleway-font-css'  href='http://fonts.googleapis.com/css?family=Raleway:400,500,700' type='text/css' media='all' />
+<link rel='stylesheet' id='Marvel-font-css'  href='http://fonts.googleapis.com/css?family=Marvel:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css%3Fver=4.7.4.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='flexslider-css'  href='wp-content/plugins/js_composer/assets/lib/bower/flexslider/flexslider.css%3Fver=4.7.4.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='colorbox-css'  href='wp-content/themes/magicbook/js/colorbox/colorbox.css%3Fver=1.2.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-content/themes/magicbook/js/modernizr.custom.38010.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js%3Fver=1.11.3'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js%3Fver=1.2.1'></script>
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.5" />
+
+		<style type="text/css">
+#main-loading{background-image:url(wp-content/themes/magicbook/img/necessity/loadinfo.net-2.gif);}.no-csstransforms3d .book, .no-js .book, .front{
+			background: url(wp-content/themes/magicbook/img/default_cover.jpg);
+			background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 15%, rgba(255, 255, 255, 0.05) 100%), url(wp-content/themes/magicbook/img/default_cover.jpg), #333;
+			background: linear-gradient(to right, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 15%, rgba(255, 255, 255, 0.05) 100%), url(wp-content/themes/magicbook/img/default_cover.jpg), #333;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: top;
+		}@media only screen and (-Webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
+			.no-csstransforms3d .book, .no-js .book, .front{
+			background: url(wp-content/themes/magicbook/img/default_cover@2x.jpg);
+			background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 15%, rgba(255, 255, 255, 0.05) 100%), url(wp-content/themes/magicbook/img/default_cover@2x.jpg), #333;
+			background: linear-gradient(to right, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 15%, rgba(255, 255, 255, 0.05) 100%), url(wp-content/themes/magicbook/img/default_cover@2x.jpg), #333;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: top;
+		  }
+		}.intro-content h1{font-size:3.6em;}</style>
+<link rel="shortcut icon" href="index.html" type="image/x-icon">
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://shg-oss.esy.es/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://shg-oss.esy.es/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home blog wpb-js-composer js-comp-ver-4.7.4 vc_responsive">   
+<div class="preloader"></div>
+<div id="ajax-load">
+    <a id="close_button">&times;</a>
+    <div id="ajax-content"></div>
+</div><!-- Pushy Menu -->
+<nav class="pushy pushy-right">
+    <h4>Content <span href="javascript:void(0);" class="pushy-close">x</span></h4>
+    <ul>
+         <div id="pushy_menu" class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-211" class="none menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#start">Start</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#about">About</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#portfolios">Portfolios</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#blog">Blog</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#contact">Contact</a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#elements">Elements</a></li>
+</ul></div>    </ul>
+</nav>
+
+<!-- Site Overlay -->
+<div class="site-overlay"></div>
+<div id='body-container'><div id="main-loading"></div>
+
+<div id="phone-menu-default">   
+   <a class="menu-button-default">"Show Menu"<div></div><div></div><div></div></a>
+</div>
+
+<div id="scroll-wrap" class="main">
+
+<div class="book" data-book="book-1"><!-- Small Book -->
+    <a href="index.html#" ><img src="wp-content/themes/magicbook/img/necessity/page-corner.png" id="page-corner" alt="corner" /></a>
+</div> 
+
+<div class="intro-wrapper">
+      <div class="intro-content">
+         <h1>WordPress로 GithubPage만들기</h1>
+         <div id="aline"></div>
+         
+                  <p>MagicBook is a real 3D flip book template with unlimited page number,cool 3D menu, responsive feature and easy customization etc.</p>
+                  
+                   <button id="open-it" class="btn">이제 시작합니다.</button>
+      </div>
+</div>
+   
+</div><!-- /scroll-wrap -->     
+
+<div id="top-perspective" class="effect-moveleft"><!-- Fullscreen BookBlock -->
+	<div id="top-wrapper">           
+		<div class="bb-custom-wrapper" id="book-1">
+			<div class="bb-bookblock">
+                 <div class="bb-item vc_row-fluid">
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>I'm Designer</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"  style="height: 32px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_80 vc_sep_double vc_sep_pos_align_center vc_sep_color_grey small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Education</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<ul class="book-timeline">
+			<li>
+				<span class="time-data">2000-2004</span>
+				<div class="time-dot"></div>
+				<div class="time-block">
+					<h4>Costume designing</h4>
+					<h5>@ MIT</h5>
+					<p>Studied Costume designing in these four years</p>
+				</div>
+			</li>
+    </ul>
+<ul class="book-timeline">
+			<li>
+				<span class="time-data">2004-2006</span>
+				<div class="time-dot"></div>
+				<div class="time-block">
+					<h4>Physics</h4>
+					<h5>@ Princeton University</h5>
+					<p>I get my Bachelor Degree in Princeton University.</p>
+				</div>
+			</li>
+    </ul>
+<div class="vc_empty_space"  style="height: 80px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_80 vc_sep_double vc_sep_pos_align_center vc_sep_color_grey small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Employment</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<ul class="book-timeline">
+			<li>
+				<span class="time-data">2011-2014</span>
+				<div class="time-dot"></div>
+				<div class="time-block">
+					<h4>Lead Designer</h4>
+					<h5>@ THIRD COMPANY</h5>
+					<p>Worked in so many projects for best clients around the world and i get so many experiences based on my job.</p>
+				</div>
+			</li>
+    </ul>
+<ul class="book-timeline">
+			<li>
+				<span class="time-data">2007 – 2011</span>
+				<div class="time-dot"></div>
+				<div class="time-block">
+					<h4>Designer</h4>
+					<h5>@ SECOND COMPANY</h5>
+					<p>Worked in so many projects for best clients around the world and i get so many experiences based on my job.</p>
+				</div>
+			</li>
+    </ul>
+<ul class="book-timeline">
+			<li>
+				<span class="time-data">2005 – 2007</span>
+				<div class="time-dot"></div>
+				<div class="time-block">
+					<h4>Practice</h4>
+					<h5>@ FIRST COMPANY</h5>
+					<p>Worked in so many projects for best clients around the world and i get so many experiences based on my job.</p>
+				</div>
+			</li>
+    </ul>
+
+			</div>
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				
+	<div class="wpb_single_image wpb_content_element vc_align_center   cover">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="516" src="wp-content/uploads/2014/09/삼배만-1024x550.jpg" class="vc_single_image-img attachment-large" alt="%ec%82%bc%eb%b0%b0%eb%a7%8c" srcset="wp-content/uploads/2014/09/삼배만-300x161.jpg 300w, wp-content/uploads/2014/09/삼배만-768x413.jpg 768w, wp-content/uploads/2014/09/삼배만-1024x550.jpg 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+		</div>
+	</div>
+
+			</div>
+		</div>
+	</div> 
+</div>
+<div class="bb-item vc_row-fluid">
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				
+	<div class="wpb_single_image wpb_content_element vc_align_right   cover">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="1150" src="wp-content/uploads/2014/09/9808350386_e9e36b20e5_k.jpg" class="vc_single_image-img attachment-full" alt="9808350386_e9e36b20e5_k" srcset="wp-content/uploads/2014/09/9808350386_e9e36b20e5_k-623x1024.jpg 623w, wp-content/uploads/2014/09/9808350386_e9e36b20e5_k.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></div>
+		</div>
+	</div>
+
+			</div>
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>About</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis.</p>
+<p><a class="flipover" href="index.html#portfolios">View My Portfolios</a></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"  style="height: 30px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_80 vc_sep_double vc_sep_pos_align_center vc_sep_color_grey small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Skills</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div class="vc_progress_bar wpb_content_element  vc_progress-bar-color-bar_black"><div class="vc_general vc_single_bar"><small class="vc_label">Costume Design</small><span class="vc_bar animated striped" data-percentage-value="90" data-value="90"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Photography</small><span class="vc_bar animated striped" data-percentage-value="95" data-value="95"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Graphic </small><span class="vc_bar animated striped" data-percentage-value="80" data-value="80"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Marketing</small><span class="vc_bar animated striped" data-percentage-value="70" data-value="70"></span></div></div><div class="vc_empty_space"  style="height: 50px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_80 vc_sep_double vc_sep_pos_align_center vc_sep_color_grey small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Services</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div class="services-item">
+<img src="index.html" alt="Illustration " />
+<p>
+<span>Illustration  :</span>
+It is a long established fact that a reader will be distracted by the readable content.
+</p>
+</div>
+<div class="services-item">
+<img src="wp-content/uploads/2014/09/leaf.png" alt="Graphic Design" />
+<p>
+<span>Graphic Design :</span>
+It is a long established fact that a reader will be distracted by the readable content.
+</p>
+</div>
+<div class="services-item">
+<img src="index.html" alt="Photography " />
+<p>
+<span>Photography  :</span>
+It is a long established fact that a reader will be distracted by the readable content.
+</p>
+</div>
+
+			</div>
+		</div>
+	</div> 
+</div>
+<div class="bb-item vc_row-fluid">
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Portfolios</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<ul class="portfolio-filters">
+			<li class="active" data-filter="*">All</li><li data-filter=".audio">Audio</li><li data-filter=".costume">Costume</li><li data-filter=".photograph">Photograph</li><li data-filter=".video">Video</li></ul><div class="portfolio-container"><div class="portfolio-item photograph">
+			     <img width="800" height="683" src="wp-content/uploads/2014/09/5334880685_5d666af01c_b-1-800x683.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="5334880685_5d666af01c_b (1)" />
+				 <div class="mask">
+					<a href="index.html%3Fp=126.html"  rel="portfolio" class="fancybox ajax" rel="photograph">
+						<h4>My Lens</h4>
+						<p>Consectetur adipiscing elit. Integer commodo tristique ...</p>
+					</a>
+					<a href="index.html%3Fp=126.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
+				 </div>
+			 </div><div class="portfolio-item audio">
+			     <img width="800" height="600" src="wp-content/uploads/2014/09/7488591214_6e1396975b_o-800x600.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="7488591214_6e1396975b_o" />
+				 <div class="mask">
+					<a href="index.html%3Fp=125.html"  rel="portfolio" class="fancybox ajax" rel="audio">
+						<h4>Music Listening</h4>
+						<p>Consectetur adipiscing elit. Integer commodo tristique ...</p>
+					</a>
+					<a href="index.html%3Fp=125.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
+				 </div>
+			 </div><div class="portfolio-item video">
+			     <img width="800" height="683" src="wp-content/uploads/2014/09/5128646208_ae45f598ce_b-800x683.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="5128646208_ae45f598ce_b" />
+				 <div class="mask">
+					<a href="index.html%3Fp=123.html"  rel="portfolio" class="fancybox ajax" rel="video">
+						<h4>Video Show</h4>
+						<p>Consectetur adipiscing elit. Integer commodo tristique ...</p>
+					</a>
+					<a href="index.html%3Fp=123.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
+				 </div>
+			 </div><div class="portfolio-item photograph">
+			     <img width="800" height="683" src="wp-content/uploads/2014/09/5373794294_fd32f139b9_b-800x683.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="5373794294_fd32f139b9_b" />
+				 <div class="mask">
+					<a href="index.html%3Fp=119.html"  rel="portfolio" class="fancybox ajax" rel="photograph">
+						<h4>White and Black &#8211; No Slider</h4>
+						<p>Consectetur adipiscing elit. Integer commodo tristique ...</p>
+					</a>
+					<a href="index.html%3Fp=119.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
+				 </div>
+			 </div><div class="portfolio-item photograph">
+			     <img width="800" height="683" src="wp-content/uploads/2014/09/4240071805_a0c87cb7c6_b-800x683.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="4240071805_a0c87cb7c6_b" />
+				 <div class="mask">
+					<a href="index.html%3Fp=116.html"  rel="portfolio" class="fancybox ajax" rel="photograph">
+						<h4>The Catcher in the Rye</h4>
+						<p>Consectetur adipiscing elit. Integer commodo tristique ...</p>
+					</a>
+					<a href="index.html%3Fp=116.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
+				 </div>
+			 </div><div class="portfolio-item costume">
+			     <img width="640" height="465" src="wp-content/uploads/2014/09/10643912466_f5e5e2a394_z.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="10643912466_f5e5e2a394_z" srcset="wp-content/uploads/2014/09/10643912466_f5e5e2a394_z-300x218.jpg 300w, wp-content/uploads/2014/09/10643912466_f5e5e2a394_z.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" />
+				 <div class="mask">
+					<a href="index.html%3Fp=111.html"  rel="portfolio" class="fancybox ajax" rel="costume">
+						<h4>Costume Design</h4>
+						<p>Consectetur adipiscing elit. Integer commodo tristique ...</p>
+					</a>
+					<a href="index.html%3Fp=111.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
+				 </div>
+			 </div></div>
+			</div>
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Testimonials</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+ <div class="testimonials-wrapper">                      
+			<div class="testimonials-item"><img src="index.html" alt="Linda Stevenson" /><div class="testimonial">                                        
+					<p>Consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit tristique odiot.</p>
+					<h4>Linda Stevenson<span> — client for over 5 years</span></h4>
+				</div>
+			</div>
+		 </div>
+ <div class="testimonials-wrapper">                      
+			<div class="testimonials-item"><img src="index.html" alt="Derrick Fisher " /><div class="testimonial">                                        
+					<p>It is a long established fact that a reader will be distracted by the readable contentIt is a long established fact that a reader will be distracted by the readable contentIt is a long established fact that a reader will be distracted by the readable contentIt is a long established fact that a reader will be distracted by the readable content.</p>
+					<h4>Derrick Fisher <span> — business associate</span></h4>
+				</div>
+			</div>
+		 </div>
+ <div class="testimonials-wrapper">                      
+			<div class="testimonials-item"><img src="wp-content/uploads/2014/09/noun_65572_cc.png" alt="Lorena Biggs" /><div class="testimonial">                                        
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, eum, similique, est esse magnam molestias aspernatur reprehenderit laudantium necessitatibus porro ipsum unde itaque ducimus!</p>
+					<h4>Lorena Biggs<span> —  client for over 3 years</span></h4>
+				</div>
+			</div>
+		 </div>
+
+			</div>
+		</div>
+	</div> 
+</div>
+<div class="bb-item vc_row-fluid">
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				
+	<div class="wpb_single_image wpb_content_element vc_align_center   cover">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="1150" src="wp-content/uploads/2014/09/14197877554_d9241fba9b_k.jpg" class="vc_single_image-img attachment-full" alt="14197877554_d9241fba9b_k" srcset="wp-content/uploads/2014/09/14197877554_d9241fba9b_k-623x1024.jpg 623w, wp-content/uploads/2014/09/14197877554_d9241fba9b_k.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></div>
+		</div>
+	</div>
+
+			</div>
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Blog</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div class="blog-wrapper"><div class="blog-item" id="post-1">
+				   <a class="blog-banner ajax" href="index.html%3Fp=1.html"></a>  
+				   <a href="index.html%3Fp=1.html" title="안녕하세요!" class="ajax"><h3>안녕하세요!</h3></a>
+				   <div class="blog-tags"><span class="author"><a href="author/user/index.html">By user</a></span><span class="date">2016년 12월 7일</span><span class="comment"><a href="index.html%3Fp=1.html#comments" title="Comment on 안녕하세요!">1</a></span></div>
+				   <p class="article">워드프레스에 오신 것을 환영합니다. 이것은 첫번째 글입니다. 이 글을 고치거나 지운 후에 블로깅을 ...</p>
+				   <a class="more-link ajax" href="index.html%3Fp=1.html">Continue to read</a>
+				 </div><div class="blog-item" id="post-101">
+				   <a class="blog-banner ajax" href="index.html%3Fp=101.html"><img width="960" height="640" src="wp-content/uploads/2014/09/4817318745_111d38b1c0_b-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="4817318745_111d38b1c0_b" srcset="wp-content/uploads/2014/09/4817318745_111d38b1c0_b-300x200.jpg 300w, wp-content/uploads/2014/09/4817318745_111d38b1c0_b-768x512.jpg 768w, wp-content/uploads/2014/09/4817318745_111d38b1c0_b.jpg 1024w" sizes="(max-width: 960px) 100vw, 960px" /></a>  
+				   <a href="index.html%3Fp=101.html" title="The content formats style" class="ajax"><h3>The content formats style</h3></a>
+				   <div class="blog-tags"><span class="author"><a href="author/user/index.html">By user</a></span><span class="date">2014년 9월 3일</span><span class="comment"><a href="index.html%3Fp=101.html#respond" title="Comment on The content formats style">0</a></span></div>
+				   <p class="article">Prointa egess, ligula nec faucibus congue, nunc tellus ...</p>
+				   <a class="more-link ajax" href="index.html%3Fp=101.html">Continue to read</a>
+				 </div><div class="blog-item" id="post-106">
+				   <a class="blog-banner ajax" href="index.html%3Fp=106.html"><img width="960" height="640" src="wp-content/uploads/2014/09/5370082213_7ddaf362ff_b-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="5370082213_7ddaf362ff_b" srcset="wp-content/uploads/2014/09/5370082213_7ddaf362ff_b-300x200.jpg 300w, wp-content/uploads/2014/09/5370082213_7ddaf362ff_b-768x512.jpg 768w, wp-content/uploads/2014/09/5370082213_7ddaf362ff_b.jpg 1024w" sizes="(max-width: 960px) 100vw, 960px" /></a>  
+				   <a href="index.html%3Fp=106.html" title="Aliquam ultricies odio ligula" class="ajax"><h3>Aliquam ultricies odio ligula</h3></a>
+				   <div class="blog-tags"><span class="author"><a href="author/user/index.html">By user</a></span><span class="date">2014년 9월 3일</span><span class="comment"><a href="index.html%3Fp=106.html#respond" title="Comment on Aliquam ultricies odio ligula">0</a></span></div>
+				   <p class="article">Aliquam non lorem pretium, congue lacus sit amet, tempu...</p>
+				   <a class="more-link ajax" href="index.html%3Fp=106.html">Continue to read</a>
+				 </div></div>
+			</div>
+		</div>
+	</div> 
+</div>
+<div class="bb-item vc_row-fluid">
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="wpb_gmaps_widget wpb_content_element">
+	<div class="wpb_wrapper">
+	<div class="wpb_map_wraper">
+		<iframe class="map" width="100%" height="700" frameborder="0" scrolling="no" marginheight="700" marginwidth="0" src="https://maps.google.com/?ie=UTF8&ll=44.0792,-103.241444&spn=0.086199,0.181789&t=m&z=13&output=embed"></iframe>	</div>
+	</div>
+	</div>
+
+			</div>
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Contact</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Adress: Chicago, IL, 111 Webdev Street<br />
+Phone: +1 111 111-11-11<br />
+Fax: +1 111 111-11-11<br />
+E-Mail: kevinlee.id@gmail.com</p>
+
+		</div>
+	</div>
+<ul class="social"><li><a href="index.html#"><i class="fa fa-facebook"></i></a></li><li><a href="index.html#"><i class="fa fa-twitter"></i></a></li><li><a href="index.html#"><i class="fa fa-dribbble"></i></a></li><li><a href="index.html#"><i class="fa fa-flickr"></i></a></li><li><a href="index.html#"><i class="fa fa-instagram"></i></a></li><li><a href="index.html#"><i class="fa fa-lastfm"></i></a></li><li><a href="index.html#"><i class="fa fa-yelp"></i></a></li><li><a href="index.html#"><i class="fa fa-github"></i></a></li><li><a href="index.html#"><i class="fa fa-vk"></i></a></li></ul><div class="vc_empty_space"  style="height: 40px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_grey small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Send a message</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+[contact-form-7 id=&#8221;186&#8243;]
+			</div>
+		</div>
+	</div> 
+</div>
+<div class="bb-item vc_row-fluid">
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Tabs</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+
+	<div class="wpb_tabs wpb_content_element" data-interval="0">
+		<div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix">
+			<ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix"><li><a href="index.html#tab-1409854101-1-11">Tab 1</a></li><li><a href="index.html#tab-1409854101-2-78">Tab 2</a></li></ul>
+	<div id="tab-1409854101-1-11" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Prointa egess, ligula nec faucibus congue, nunc tellus sodales lectus, eget posuere orci velit ut est. Quisque feugiat dolor non vehicula aliquet. Sed purus eros, porta ac turpis a, varius placerat dui.</p>
+
+		</div>
+	</div>
+
+	</div>
+
+	<div id="tab-1409854101-2-78" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam est odio, sagittis vel tortor id, laoreet volutpat dui. Vestibulum.</p>
+
+		</div>
+	</div>
+
+	</div>
+
+		</div>
+	</div>
+<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>FAQ</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div 	class="vc_toggle vc_toggle_default vc_toggle_color_default  vc_toggle_size_md">
+	<div
+		class="vc_toggle_title"><h4>Cum sociis natoque penatibus</h4><i class="vc_toggle_icon"></i></div>
+	<div
+		class="vc_toggle_content"><p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam est odio, sagittis vel tortor id, laoreet volutpat dui. Vestibulum.</p>
+</div>
+	</div>
+<div 	class="vc_toggle vc_toggle_default vc_toggle_color_default  vc_toggle_size_md">
+	<div
+		class="vc_toggle_title"><h4>Prointa egess</h4><i class="vc_toggle_icon"></i></div>
+	<div
+		class="vc_toggle_content"><p>Prointa egess, ligula nec faucibus congue, nunc tellus sodales lectus, eget posuere orci velit ut est.</p>
+</div>
+	</div>
+<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Acorrdion</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+
+	<div class="wpb_accordion wpb_content_element  not-column-inherit" data-collapsible="" data-vc-disable-keydown="false" data-active-tab="1">
+		<div class="wpb_wrapper wpb_accordion_wrapper ui-accordion">
+
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header"><a href="index.html#section-1">Section 1</a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Prointa egess, ligula nec faucibus congue, nunc tellus sodales lectus, eget posuere orci velit ut est. Quisque feugiat dolor non vehicula aliquet. Sed purus eros, porta ac turpis a, varius placerat dui.</p>
+
+		</div>
+	</div>
+
+		</div>
+	</div>
+
+	<div class="wpb_accordion_section group">
+		<h3 class="wpb_accordion_header ui-accordion-header"><a href="index.html#section-2">Section 2</a></h3>
+		<div class="wpb_accordion_content ui-accordion-content vc_clearfix">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+
+		</div>
+	</div>
+
+		</div>
+	</div>
+
+		</div>
+	</div>
+<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Tour</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+
+	<div class="wpb_tour wpb_content_element" data-interval="0">
+		<div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix">
+			<ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix"><li><a href="index.html#tab-1409854820-1-69">Tab 1</a></li><li><a href="index.html#tab-1409854820-2-57">Tab 2</a></li></ul>
+	<div id="tab-1409854820-1-69" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+
+		</div>
+	</div>
+
+	</div>
+
+	<div id="tab-1409854820-2-57" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Prointa egess, ligula nec faucibus congue, nunc tellus sodales lectus, eget posuere orci velit ut est. Quisque feugiat dolor non vehicula aliquet. Sed purus eros, porta ac turpis a, varius placerat dui.</p>
+
+		</div>
+	</div>
+
+	</div>
+<div class="wpb_tour_next_prev_nav vc_clearfix"> <span class="wpb_prev_slide"><a href="index.html#prev" title="Previous tab">Previous tab</a></span> <span class="wpb_next_slide"><a href="index.html#next" title="Next tab">Next tab</a></span></div>
+		</div>
+	</div>
+
+			</div>
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-6 bb-custom-side">
+		<div class="content-wrapper">
+			<div class="container">
+				<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Message Box</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div class="vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-alert-info">
+	<div class="vc_message_box-icon"><i class="vc_pixel_icon vc_pixel_icon-info"></i>
+	</div><p>I am message box. Click edit button to change this text.</p>
+</div><div class="vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-alert-warning">
+	<div class="vc_message_box-icon"><i class="vc_pixel_icon vc_pixel_icon-alert"></i>
+	</div><p>I am message box. Click edit button to change this text.</p>
+</div><div class="vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-alert-success">
+	<div class="vc_message_box-icon"><i class="vc_pixel_icon vc_pixel_icon-tick"></i>
+	</div><p>I am message box. Click edit button to change this text.</p>
+</div><div class="vc_message_box vc_message_box-standard vc_message_box-rounded vc_color-alert-danger">
+	<div class="vc_message_box-icon"><i class="vc_pixel_icon vc_pixel_icon-explanation"></i>
+	</div><p>I am message box. Click edit button to change this text.</p>
+</div><div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Button</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<button class="wpb_button  wpb_wpb_button wpb_regularsize">Text on the button</button><button class="wpb_button  wpb_btn-info wpb_regularsize">Text on the button</button><button class="wpb_button  wpb_btn-warning wpb_regularsize">Text on the button</button><div class="vc_empty_space"  style="height: 10px" ><span
+		class="vc_empty_space_inner"></span></div>
+<button class="wpb_button  wpb_wpb_button wpb_regularsize wpb_address_book">Text on the button <i class="icon"> </i></button><button class="wpb_button  wpb_btn-success wpb_regularsize wpb_alarm_clock">Text on the button <i class="icon"> </i></button><button class="wpb_button  wpb_btn-inverse wpb_regularsize wpb_hammer">Text on the button <i class="icon"> </i></button><div class="vc_empty_space"  style="height: 30px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Button 2</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_turquoise vc_btn-turquoise vc_btn_md vc_btn-md vc_btn_rounded"
+															 href="index.html"
+															 title=""
+															 target="">Text on the button</a>
+</div><div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_chino vc_btn-chino vc_btn_md vc_btn-md vc_btn_square"
+															 href="index.html"
+															 title=""
+															 target="">Text on the button</a>
+</div><div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_orange vc_btn-orange vc_btn_md vc_btn-md vc_btn_round"
+															 href="index.html"
+															 title=""
+															 target="">Text on the button</a>
+</div><div class="vc_empty_space"  style="height: 10px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_green vc_btn-green vc_btn_md vc_btn-md vc_btn_outlined"
+															 href="index.html"
+															 title=""
+															 target="">Text on the button</a>
+</div><div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_juicy_pink vc_btn-juicy_pink vc_btn_md vc_btn-md vc_btn_3d"
+															 href="index.html"
+															 title=""
+															 target="">Text on the button</a>
+</div><div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_purple vc_btn-purple vc_btn_md vc_btn-md vc_btn_square_outlined"
+															 href="index.html"
+															 title=""
+															 target="">Text on the button</a>
+</div><div class="vc_empty_space"  style="height: 30px" ><span
+		class="vc_empty_space_inner"></span></div>
+<div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_black small"><span
+		class="vc_sep_holder vc_sep_holder_l"><span			class="vc_sep_line"></span></span>		<h4>Progress bar</h4><span
+		class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+	</div>
+<div class="vc_progress_bar wpb_content_element  vc_progress-bar-color-bar_orange"><div class="vc_general vc_single_bar"><small class="vc_label">Development</small><span class="vc_bar animated striped" data-percentage-value="90" data-value="90"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Design</small><span class="vc_bar animated striped" data-percentage-value="80" data-value="80"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Marketing</small><span class="vc_bar animated striped" data-percentage-value="70" data-value="70"></span></div></div>
+			</div>
+		</div>
+	</div> 
+</div>
+			</div><!-- /bb-bookblock -->
+		</div><!-- /bb-custom-wrapper -->        
+	</div><!-- /top-wrapper  -->
+    
+ <div id="phone-menu"> <!-- Menu for phone scroll  -->
+      <a class="menu-button">"Show Menu"<div></div><div></div><div></div></a>
+    </div>
+    
+  <div id="menu-wrapper"><!-- Main menu  -->
+    	<span id="close-tip">back to cover</span>
+    	<a href="index.html#" id="close-button">×</a>
+        <nav class="outer-nav">     
+          <div id="nav-scroll" class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class="menu"><li id="menu-item-211" class="none menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#start">Start</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#about">About</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#portfolios">Portfolios</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#blog">Blog</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#contact">Contact</a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html#elements">Elements</a></li>
+</ul></div>        </nav>
+
+        <span id="menu-copy">© MagicBook Theme.</span>
+  </div><!-- /menu-wrapper  --></div><!-- /top-perspective  --><link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.css%3Fver=4.7.4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='vc-custom-css'  href='wp-content/themes/magicbook/vc_extends/vc_custom.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-content/themes/magicbook/js/bjqs-1.3.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/jquery.easing.min.js'></script>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?sensor=false'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/jquery.bookblock.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/colorbox/jquery.colorbox.js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js%3Fver=4.7.4'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/jquerypp.custom.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/jquery.placeholder.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/perfect-scrollbar.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/jquery.mousewheel.js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js%3Fver=4.7.4'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/classie.js'></script>
+<script type='text/javascript' src='wp-includes/js/hoverIntent.min.js%3Fver=1.8.1'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/pushy.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/custom-for-wp.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/script.js'></script>
+<script type='text/javascript' src='wp-content/themes/magicbook/js/menu.js'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=4.4.5'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/js_composer_front.js%3Fver=4.7.4'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js%3Fver=4.7.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js%3Fver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js%3Fver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js%3Fver=1.11.4'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.js%3Fver=4.7.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js%3Fver=1.11.4'></script>
+<div id="global_footer_text">OSS-도-Project</div> 
+<!-- Say no to IE 8 ...  -->
+<!--[if lt IE 9]>
+	<div id="say-no-to-ie8"><h3>Sorry, we no longer support your browser anymore :(</h3><h5>Please update it to later version, just like:</h5><span><a target="_blank" href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Newer IE</a></span>|<span><a target="_blank" href="https://www.mozilla.org/en-US/firefox/new/#">Firefox</a></span>|<span><a target="_blank" href="http://www.opera.com/computer/windows">Opera</a></span>|<span><a target="_blank" href="https://www.google.com/intl/en/chrome/browser/">Chrome</a></span></div>
+<![endif]-->
+</body>
+</html></div>

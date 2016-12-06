@@ -1,0 +1,44 @@
+/* Basic jQuery Slider essential styles */
+
+ul.bjqs{position:relative; list-style:none;padding:0;margin:0;overflow:hidden; display:none;}
+li.bjqs-slide{position:absolute; display:none;}
+ul.bjqs-controls{list-style:none;margin:0;padding:0;z-index:9999;}
+ul.bjqs-controls.v-centered li a{position:absolute;}
+ul.bjqs-controls li.bjqs-next a{right:0;}
+ul.bjqs-controls li.bjqs-prev a{left:0;}
+ol.bjqs-markers{list-style: none; padding: 0; margin: 0; width:100%;}
+ol.bjqs-markers.h-centered{text-align: center;}
+ol.bjqs-markers li{display:inline;}
+ol.bjqs-markers li a{display:inline-block;}
+p.bjqs-caption{display:block;width:96%;margin:0;padding:2%;position:absolute;bottom:0;}
+
+ul.bjqs-controls li a{
+	font-size:0px;
+	color:#fff;
+	opacity:.6;
+	-moz-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+	position: absolute;
+	top: 43%;
+}
+ul.bjqs-controls li a:hover{
+	opacity:1;
+	text-decoration:none;
+}
+ul.bjqs-controls li.bjqs-prev a::before{
+	content:'\f104';
+	font-family: FontAwesome;
+	font-size: 36px;
+	padding-left: 10px;
+}
+ul.bjqs-controls li.bjqs-next a::before{
+	content:'\f105';
+	font-family: FontAwesome;
+	font-size: 36px;
+	padding-right: 10px;
+}
+ol.bjqs-markers{
+
+}

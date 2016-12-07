@@ -1,73 +1,80 @@
-#-SHG ÀÛ¾÷°ø°£
- *test Domain : http://shg-oss.esy.es/ 
- *github Page : https://skku-oss-do.github.io/SHG/
+#-SHG ì‘ì—…ê³µê°„
+ *test Domain : http://shg-oss.esy.es/ <br/>
+ *github Page : https://skku-oss-do.github.io/SHG/ <br/>
 ##(Design)
- github Static Page¿¡ wordpressÀÇ Å×¸¶¿Í ÇÃ·¯±×ÀÎÀ» Àû¿ëÇÏ¿© »ç¿ëÀÚ¿¡°Ô º¸¿©ÁØ´Ù.<Br/>
- FlippingBook°ú °°Àº Ã¥Àå ³Ñ±â±â¿Í °°ÀÌ, À¯»ç PPTÇü½ÄÀ¸·Î Àû¿ëµÈ ÇÃ·¯±×ÀÎ°ú ¹ßÇ¥ ÇÒ ¿¹Á¤
+ github Static Pageì— wordpressì˜ í…Œë§ˆì™€ í”ŒëŸ¬ê·¸ì¸ì„ ì ìš©í•˜ì—¬ ì‚¬ìš©ìì—ê²Œ ë³´ì—¬ì¤€ë‹¤.<Br/>
+ FlippingBookê³¼ ê°™ì€ ì±…ì¥ ë„˜ê¸°ê¸°ì™€ ê°™ì´, ìœ ì‚¬ PPTí˜•ì‹ìœ¼ë¡œ ì ìš©ëœ í”ŒëŸ¬ê·¸ì¸ê³¼ ë°œí‘œ í•  ì˜ˆì •
 
- *°¢ Àå¿¡ Àû¿ëµÈ ÇÃ·¯±×ÀÎ¿¡ ´ëÇØ¼­ Ã¥Àå ¹Ø¿¡ ¼³¸íÀÌ ³ª¿Ã ¼ö ÀÖµµ·Ï µğÀÚÀÎ
+ *ê° ì¥ì— ì ìš©ëœ í”ŒëŸ¬ê·¸ì¸ì— ëŒ€í•´ì„œ ì±…ì¥ ë°‘ì— ì„¤ëª…ì´ ë‚˜ì˜¬ ìˆ˜ ìˆë„ë¡ ë””ìì¸
  (1page)
- ÆÀ ¼Ò°³
+ íŒ€ ì†Œê°œ
  
  (2-3page)
- °³¿ä - Âü¿©È°µ¿
+ ê°œìš” - ì°¸ì—¬í™œë™
  
  (4-5page)
- Wordpress 1Â÷ ¹ßÇ¥ÀÚ·á[PPT] / link Wiki
- Âü¿©ÀÚ ¿ªÇÒ ¼Ò°³
-OSS ÇÁ·ÎÁ§Æ® Á¶»ç¹ßÇ¥ µµÆÀ ¹ßÇ¥ÀÚ·áÀÔ´Ï´Ù.
-¹ßÇ¥ÀÚ ±èÁøÇö Áø¿ìÇö
-https://www.slideshare.net/secret/BdM2JZmOeVgtwZ
+ Wordpress 1ì°¨ ë°œí‘œìë£Œ[PPT] / link Wiki<Br/>
+ ì°¸ì—¬ì ì—­í•  ì†Œê°œ<Br/>
+OSS í”„ë¡œì íŠ¸ ì¡°ì‚¬ë°œí‘œ ë„íŒ€ ë°œí‘œìë£Œì…ë‹ˆë‹¤.<Br/>
+ë°œí‘œì ê¹€ì§„í˜„ ì§„ìš°í˜„<Br/>
+https://www.slideshare.net/secret/BdM2JZmOeVgtwZ<Br/>
 
  (6-7page)
- AGPL 2Â÷ ¹ßÇ¥ÀÚ·á[PPT] / link Wiki
- Âü¿©ÀÚ ¿ªÇÒ ¼Ò°³
+ AGPL 2ì°¨ ë°œí‘œìë£Œ[PPT] / link Wiki<Br/>
+ ì°¸ì—¬ì ì—­í•  ì†Œê°œ<Br/>
 
-OSS ¶óÀÌ¼¾½º Á¶»ç¹ßÇ¥ GNU Affero GPL 3.0 µµÆÀ
-¹ßÇ¥ÀÚ ¹ÚÅÂ·Ï ¼­ÀçÇĞ
-https://www.slideshare.net/secret/uLncs7T1jo2TFT
+OSS ë¼ì´ì„¼ìŠ¤ ì¡°ì‚¬ë°œí‘œ GNU Affero GPL 3.0 ë„íŒ€<Br/>
+ë°œí‘œì ë°•íƒœë¡ ì„œì¬í•™<Br/>
+https://www.slideshare.net/secret/uLncs7T1jo2TFT<Br/>
 
  (8-9page)
 
- WordPress °ü·Ã ´ÜÃ¼ ¼Ò°³ ¹× News Feed ±¸¼º ¹× È°µ¿ ¿¬°è Á¦½Ã(1)
- ¿ÀÇÂ¼Ò½º¼ÒÇÁÆ®¿ş¾î°³·Ğ ÆÀ±¸¼º¹ßÇ¥ µµ 
- ¹ßÇ¥ÀÚ - °í´ë¿µ, ±è¿Ï¼®
- https://www.slideshare.net/secret/LBFAqTR8fnLrZz
+ WordPress ê´€ë ¨ ë‹¨ì²´ ì†Œê°œ ë° News Feed êµ¬ì„± ë° í™œë™ ì—°ê³„ ì œì‹œ(1)<Br/>
+ ì˜¤í”ˆì†ŒìŠ¤ì†Œí”„íŠ¸ì›¨ì–´ê°œë¡  íŒ€êµ¬ì„±ë°œí‘œ ë„ <Br/>
+ ë°œí‘œì - ê³ ëŒ€ì˜, ê¹€ì™„ì„<Br/>
+ https://www.slideshare.net/secret/LBFAqTR8fnLrZz<Br/>
+ 
  (10-11page)
- WordPress °ü·Ã ´ÜÃ¼ ¼Ò°³ ¹× News Feed ±¸¼º ¹× È°µ¿ ¿¬°è Á¦½Ã(2)
+
+ WordPress ê´€ë ¨ ë‹¨ì²´ ì†Œê°œ ë° News Feed êµ¬ì„± ë° í™œë™ ì—°ê³„ ì œì‹œ(2)<Br/>
 
  (12-13page)
- ÇÁ·ÎÁ§Æ® È°µ¿ Á¦½Ã
 
- (14-15page)
- ¸ÎÀ½¸»
+ í”„ë¡œì íŠ¸ í™œë™ ì œì‹œ<Br/>
 
- (16Page)
- ¸¶¹«¸®
+ (14-15page)<Br/>
+ 
+ ë§ºìŒë§
+
+ (16Page)<Br/>
+ 
+ ë§ˆë¬´ë¦¬
 
  [ETC]
- sound - 
+ 
+ sound - <Br/>
 
 
-##Àû¿ë
- ###Thema
- -magicBook [GPL] (https://themeforest.net/item/magicbook-a-3d-flip-book-wordpress-theme/8808169)
+##ì ìš©
+###Thema
+ -magicBook [GPL] (https://themeforest.net/item/magicbook-a-3d-flip-book-wordpress-theme/8808169) <Br/>
+
 ###Plugin
- -FlippingBook *´ëÃ¼ ÇÊ¿ä (https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
-  how-to : https://flippingbook.com/account/software
+ SlideShare for WordPress by Yoast
+ í•„ìˆ˜ì„¤ì¹˜ Plugin
+ gallery-metabox
+ Visual Composer
 
- -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)
 
 ##PASS
  ###Theme
- Touchfolio (http://dimsemenov.com/themes/touchfolio/demo/#with-pattern)
+ Touchfolio (http://dimsemenov.com/themes/touchfolio/demo/#with-pattern)<Br/>
  
  ###Plugin
-
-
+ -FlippingBook *ëŒ€ì²´ í•„ìš” (https://ko.wordpress.org/plugins/flippingbook/faq/) <Br/>
+  how-to : https://flippingbook.com/account/software <Br/>
+  -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)<Br/>
 ##Problem
- 1) wordpress Theme Àû¿ë½Ã ¸ğ¹ÙÀÏ Çü½Äµµ Áö¿øÀ»ÇÏÁö¸¸, Simply StaticÀ¸·Î ÃßÃâ µÈ °æ¿ì Àû¿ëÀÌ µÇÁö ¾Ê´Â´Ù
+ 1) wordpress Theme ì ìš©ì‹œ ëª¨ë°”ì¼ í˜•ì‹ë„ ì§€ì›ì„í•˜ì§€ë§Œ, Simply Staticìœ¼ë¡œ ì¶”ì¶œ ëœ ê²½ìš° ì ìš©ì´ ë˜ì§€ ì•ŠëŠ”ë‹¤
  
 ##Trouble shooting
- 
- 

@@ -75,6 +75,8 @@ https://www.slideshare.net/secret/uLncs7T1jo2TFT<Br/>
   how-to : https://flippingbook.com/account/software <Br/>
   -Simply Static(https://wordpress.org/plugins/simply-static/screenshots/)<Br/>
 ##Problem
- 1) wordpress Theme 적용시 모바일 형식도 지원을하지만, Simply Static으로 추출 된 경우 적용이 되지 않는다
- 
+ 1) Simply Static
+ => wordpress Theme 적용시 모바일 형식도 지원을하지만, Simply Static으로 추출 된 경우 적용이 되지 않는다.
+ => 
+ 2) 
 ##Trouble shooting

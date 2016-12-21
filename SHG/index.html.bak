@@ -17,9 +17,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> 
     
 	<!--[if lt IE 9]>
-    <script src="http://shg-oss.esy.es/wp-content/themes/magicbook/js/html5shiv.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://shg-oss.esy.es/wp-content/themes/magicbook/js/selectivizr-min.js"></script>
-    <script type="text/javascript" src="http://shg-oss.esy.es/wp-content/themes/magicbook/js/respond.min.js"></script>
+    <script src="wp-content/themes/magicbook/js/html5shiv.js" type="text/javascript"></script>
+    <script type="text/javascript" src="wp-content/themes/magicbook/js/selectivizr-min.js"></script>
+    <script type="text/javascript" src="wp-content/themes/magicbook/js/respond.min.js"></script>
     <![endif]-->
 
     <script type="text/javascript">
@@ -72,7 +72,7 @@ img.emoji {
 <meta name="generator" content="WordPress 4.4.5" />
 
 		<style type="text/css">
-#main-loading{background-image:url(wp-content/themes/magicbook/img/necessity/loadinfo.net-2.gif);}body{background-image:url(http://shg-oss.esy.es/wp-content/themes/magicbook/admin/redux-framework/ReduxCore/../sample/patterns/wood-3.png);}.no-csstransforms3d .book, .no-js .book, .front{
+#main-loading{background-image:url(wp-content/themes/magicbook/img/necessity/loadinfo.net-2.gif);}body{background-image:url(wp-content/themes/magicbook/admin/redux-framework/ReduxCore/../sample/patterns/wood-3.png);}.no-csstransforms3d .book, .no-js .book, .front{
 			background: url(wp-content/themes/magicbook/img/default_cover.jpg);
 			background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 15%, rgba(255, 255, 255, 0.05) 100%), url(wp-content/themes/magicbook/img/default_cover.jpg), #333;
 			background: linear-gradient(to right, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 15%, rgba(255, 255, 255, 0.05) 100%), url(wp-content/themes/magicbook/img/default_cover.jpg), #333;
@@ -188,7 +188,7 @@ svg {
 }</style>
 <link rel="shortcut icon" href="#" type="image/x-icon">
 <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://shg-oss.esy.es/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://shg-oss.esy.es/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 <body class="home blog wpb-js-composer js-comp-ver-4.7.4 vc_responsive">   
 <div class="preloader"></div>
 <div id="ajax-load">
@@ -400,7 +400,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="186" src="wp-content/uploads/2014/09/act1_wordpress-300x186.png" class="vc_single_image-img attachment-medium" alt="act1_wordpress" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/act1_wordpress-300x186.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/act1_wordpress.png 499w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="186" src="wp-content/uploads/2014/09/act1_wordpress-300x186.png" class="vc_single_image-img attachment-medium" alt="act1_wordpress" srcset="wp-content/uploads/2014/09/act1_wordpress-300x186.png 300w, wp-content/uploads/2014/09/act1_wordpress.png 499w" sizes="(max-width: 300px) 100vw, 300px" /></div>
 		</div>
 	</div>
 
@@ -501,7 +501,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="124" src="wp-content/uploads/2014/09/act2_AGPL-300x124.png" class="vc_single_image-img attachment-medium" alt="act2_agpl" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/act2_AGPL-300x124.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/act2_AGPL-768x318.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/act2_AGPL-1024x424.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="124" src="wp-content/uploads/2014/09/act2_AGPL-300x124.png" class="vc_single_image-img attachment-medium" alt="act2_agpl" srcset="wp-content/uploads/2014/09/act2_AGPL-300x124.png 300w, wp-content/uploads/2014/09/act2_AGPL-768x318.png 768w, wp-content/uploads/2014/09/act2_AGPL-1024x424.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></div>
 		</div>
 	</div>
 
@@ -624,7 +624,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="541" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc15-1024x577.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc15" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림15-300x169.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림15-768x433.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림15-1024x577.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="541" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc15-1024x577.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc15" srcset="wp-content/uploads/2014/09/그림15-300x169.png 300w, wp-content/uploads/2014/09/그림15-768x433.png 768w, wp-content/uploads/2014/09/그림15-1024x577.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 <div class="vc_empty_space"  style="height: 20px" ><span
@@ -657,21 +657,21 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="672" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc4-1024x717.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc4" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림4-300x210.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림4-768x537.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림4-1024x717.png 1024w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림4.png 1146w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="672" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc4-1024x717.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc4" srcset="wp-content/uploads/2014/09/그림4-300x210.png 300w, wp-content/uploads/2014/09/그림4-768x537.png 768w, wp-content/uploads/2014/09/그림4-1024x717.png 1024w, wp-content/uploads/2014/09/그림4.png 1146w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481071218468-ddba9883-fca9" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1481071218468-ddba9883-fca9" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">AutoSet</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="786" height="450" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc5.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc5" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림5-300x172.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림5-768x440.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림5.png 786w" sizes="(max-width: 786px) 100vw, 786px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="786" height="450" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc5.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc5" srcset="wp-content/uploads/2014/09/그림5-300x172.png 300w, wp-content/uploads/2014/09/그림5-768x440.png 768w, wp-content/uploads/2014/09/그림5.png 786w" sizes="(max-width: 786px) 100vw, 786px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481071218533-ba1c8dc0-cbae" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1481071218533-ba1c8dc0-cbae" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Hostinger</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="577" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc6-1024x615.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc6" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림6-300x180.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림6-768x461.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림6-1024x615.png 1024w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림6.png 1160w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="577" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc6-1024x615.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc6" srcset="wp-content/uploads/2014/09/그림6-300x180.png 300w, wp-content/uploads/2014/09/그림6-768x461.png 768w, wp-content/uploads/2014/09/그림6-1024x615.png 1024w, wp-content/uploads/2014/09/그림6.png 1160w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div></div></div></div></div><div class="vc_empty_space"  style="height: 20px" ><span
@@ -693,7 +693,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1481149046866">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="389" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc7-1024x415.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc7" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림7-300x122.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림7-768x311.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림7-1024x415.png 1024w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림7.png 1333w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="389" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc7-1024x415.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc7" srcset="wp-content/uploads/2014/09/그림7-300x122.png 300w, wp-content/uploads/2014/09/그림7-768x311.png 768w, wp-content/uploads/2014/09/그림7-1024x415.png 1024w, wp-content/uploads/2014/09/그림7.png 1333w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 
@@ -719,21 +719,21 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="613" height="452" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc9.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc9" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림9-300x221.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림9.png 613w" sizes="(max-width: 613px) 100vw, 613px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="613" height="452" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc9.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc9" srcset="wp-content/uploads/2014/09/그림9-300x221.png 300w, wp-content/uploads/2014/09/그림9.png 613w" sizes="(max-width: 613px) 100vw, 613px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481071255840-e783e95a-b04a" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1481071255840-e783e95a-b04a" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Portfolio</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="563" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc8-1024x600.jpg" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc8" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림8-300x176.jpg 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림8-768x450.jpg 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림8-1024x600.jpg 1024w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림8.jpg 1520w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="563" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc8-1024x600.jpg" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc8" srcset="wp-content/uploads/2014/09/그림8-300x176.jpg 300w, wp-content/uploads/2014/09/그림8-768x450.jpg 768w, wp-content/uploads/2014/09/그림8-1024x600.jpg 1024w, wp-content/uploads/2014/09/그림8.jpg 1520w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481071255902-4612b4e1-7561" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1481071255902-4612b4e1-7561" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Plugins</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="540" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc10-1024x576.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc10" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림10-300x169.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림10-768x432.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림10-1024x576.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="540" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc10-1024x576.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc10" srcset="wp-content/uploads/2014/09/그림10-300x169.png 300w, wp-content/uploads/2014/09/그림10-768x432.png 768w, wp-content/uploads/2014/09/그림10-1024x576.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div></div></div></div></div><div class="vc_empty_space"  style="height: 20px" ><span
@@ -753,21 +753,21 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="540" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc14-1024x576.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc14" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림14-300x169.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림14-768x432.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림14-1024x576.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="540" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc14-1024x576.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc14" srcset="wp-content/uploads/2014/09/그림14-300x169.png 300w, wp-content/uploads/2014/09/그림14-768x432.png 768w, wp-content/uploads/2014/09/그림14-1024x576.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481071263483-d17ccb99-8864" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1481071263483-d17ccb99-8864" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Windows</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="826" height="622" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc13.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc13" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림13-300x226.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림13-768x578.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림13.png 826w" sizes="(max-width: 826px) 100vw, 826px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="826" height="622" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc13.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc13" srcset="wp-content/uploads/2014/09/그림13-300x226.png 300w, wp-content/uploads/2014/09/그림13-768x578.png 768w, wp-content/uploads/2014/09/그림13.png 826w" sizes="(max-width: 826px) 100vw, 826px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481071263553-d4127004-3146" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1481071263553-d4127004-3146" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Linux</span></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="773" height="614" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc12.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc12" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림12-300x238.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림12-768x610.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림12.png 773w" sizes="(max-width: 773px) 100vw, 773px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="773" height="614" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc12.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc12" srcset="wp-content/uploads/2014/09/그림12-300x238.png 300w, wp-content/uploads/2014/09/그림12-768x610.png 768w, wp-content/uploads/2014/09/그림12.png 773w" sizes="(max-width: 773px) 100vw, 773px" /></div>
 		</div>
 	</div>
 </div></div></div></div></div></div>
@@ -787,28 +787,28 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="522" src="wp-content/uploads/2014/09/1-1024x557.png" class="vc_single_image-img attachment-large" alt="1" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/1-300x163.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/1-768x418.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/1-1024x557.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="522" src="wp-content/uploads/2014/09/1-1024x557.png" class="vc_single_image-img attachment-large" alt="1" srcset="wp-content/uploads/2014/09/1-300x163.png 300w, wp-content/uploads/2014/09/1-768x418.png 768w, wp-content/uploads/2014/09/1-1024x557.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481144612677-b9ed5757-7693" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1481144612677-b9ed5757-7693" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">워드프레스를 설치</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="516" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc1-1024x550.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc1" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림1-300x161.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림1-768x413.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림1-1024x550.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="516" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc1-1024x550.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc1" srcset="wp-content/uploads/2014/09/그림1-300x161.png 300w, wp-content/uploads/2014/09/그림1-768x413.png 768w, wp-content/uploads/2014/09/그림1-1024x550.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481144692561-89b7c10c-0130" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1481144692561-89b7c10c-0130" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">테마와 플러그인 찾기</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="458" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc2-1024x489.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc2" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림2-300x143.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림2-768x367.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림2-1024x489.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="458" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc2-1024x489.png" class="vc_single_image-img attachment-large" alt="%ea%b7%b8%eb%a6%bc2" srcset="wp-content/uploads/2014/09/그림2-300x143.png 300w, wp-content/uploads/2014/09/그림2-768x367.png 768w, wp-content/uploads/2014/09/그림2-1024x489.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div><div class="vc_tta-panel" id="1481144696250-4aa2465f-7f39" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title vc_tta-controls-icon-position-left"><a href="#1481144696250-4aa2465f-7f39" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">깃 허브 페이지 만들기</span><i class="vc_tta-controls-icon vc_tta-controls-icon-plus"></i></a></h4></div><div class="vc_tta-panel-body">
 	<div class="wpb_single_image wpb_content_element vc_align_center">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="536" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc3-1024x572.png" class="vc_single_image-img attachment-large" alt="" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/그림3-300x168.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림3-768x429.png 768w, http://shg-oss.esy.es/wp-content/uploads/2014/09/그림3-1024x572.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="960" height="536" src="wp-content/uploads/2014/09/%ea%b7%b8%eb%a6%bc3-1024x572.png" class="vc_single_image-img attachment-large" alt="" srcset="wp-content/uploads/2014/09/그림3-300x168.png 300w, wp-content/uploads/2014/09/그림3-768x429.png 768w, wp-content/uploads/2014/09/그림3-1024x572.png 1024w" sizes="(max-width: 960px) 100vw, 960px" /></div>
 		</div>
 	</div>
 </div></div></div></div></div></div>
@@ -825,7 +825,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 	</div>
 <ul class="portfolio-filters">
 			<li class="active" data-filter="*">All</li><li data-filter=".plugin">Plugin</li><li data-filter=".setup">Setup</li><li data-filter=".forum">Forum</li><li data-filter=".oss-project">OSS Project</li><li data-filter=".theme">Theme</li></ul><div class="portfolio-container"><div class="portfolio-item setup">
-			     <img width="716" height="700" src="wp-content/uploads/2014/09/ref_forum2.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_forum2" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_forum2-300x293.jpg 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_forum2.jpg 716w" sizes="(max-width: 716px) 100vw, 716px" />
+			     <img width="716" height="700" src="wp-content/uploads/2014/09/ref_forum2.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_forum2" srcset="wp-content/uploads/2014/09/ref_forum2-300x293.jpg 300w, wp-content/uploads/2014/09/ref_forum2.jpg 716w" sizes="(max-width: 716px) 100vw, 716px" />
 				 <div class="mask">
 					<a href="portfolio/my-lens/index.html"  rel="portfolio" class="fancybox ajax" rel="setup">
 						<h4>내 컴퓨터에 워드프레스 설치하기</h4>
@@ -834,7 +834,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 					<a href="portfolio/my-lens/index.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
 				 </div>
 			 </div><div class="portfolio-item forum setup">
-			     <img width="499" height="310" src="wp-content/uploads/2014/09/act1_wordpress.png" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="act1_wordpress" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/act1_wordpress-300x186.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/act1_wordpress.png 499w" sizes="(max-width: 499px) 100vw, 499px" />
+			     <img width="499" height="310" src="wp-content/uploads/2014/09/act1_wordpress.png" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="act1_wordpress" srcset="wp-content/uploads/2014/09/act1_wordpress-300x186.png 300w, wp-content/uploads/2014/09/act1_wordpress.png 499w" sizes="(max-width: 499px) 100vw, 499px" />
 				 <div class="mask">
 					<a href="portfolio/music-listening/index.html"  rel="portfolio" class="fancybox ajax" rel="forum setup">
 						<h4>한국 워드프레스</h4>
@@ -843,7 +843,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 					<a href="portfolio/music-listening/index.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
 				 </div>
 			 </div><div class="portfolio-item oss-project">
-			     <img width="512" height="512" src="wp-content/uploads/2014/09/ref_git.png" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_git" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_git-150x150.png 150w, http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_git-300x300.png 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_git.png 512w" sizes="(max-width: 512px) 100vw, 512px" />
+			     <img width="512" height="512" src="wp-content/uploads/2014/09/ref_git.png" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_git" srcset="wp-content/uploads/2014/09/ref_git-150x150.png 150w, wp-content/uploads/2014/09/ref_git-300x300.png 300w, wp-content/uploads/2014/09/ref_git.png 512w" sizes="(max-width: 512px) 100vw, 512px" />
 				 <div class="mask">
 					<a href="portfolio/video-show/index.html"  rel="portfolio" class="fancybox ajax" rel="oss-project">
 						<h4>[Github]WordPress</h4>
@@ -852,7 +852,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 					<a href="portfolio/video-show/index.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
 				 </div>
 			 </div><div class="portfolio-item plugin theme">
-			     <img width="655" height="414" src="wp-content/uploads/2014/09/ref_homepage.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_homepage" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_homepage-300x190.jpg 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_homepage.jpg 655w" sizes="(max-width: 655px) 100vw, 655px" />
+			     <img width="655" height="414" src="wp-content/uploads/2014/09/ref_homepage.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_homepage" srcset="wp-content/uploads/2014/09/ref_homepage-300x190.jpg 300w, wp-content/uploads/2014/09/ref_homepage.jpg 655w" sizes="(max-width: 655px) 100vw, 655px" />
 				 <div class="mask">
 					<a href="portfolio/white-and-black/index.html"  rel="portfolio" class="fancybox ajax" rel="plugin theme">
 						<h4>착한 워드프레스 사이트</h4>
@@ -861,7 +861,7 @@ from <strong>발표자 김진현 진우현 </strong> </div>
 					<a href="portfolio/white-and-black/index.html"  target="_blank" class="more ajax"><i class="fa fa-info-circle"></i><span>Read more</span></a>
 				 </div>
 			 </div><div class="portfolio-item plugin theme">
-			     <img width="673" height="413" src="wp-content/uploads/2014/09/ref_forum1.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_forum1" srcset="http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_forum1-300x184.jpg 300w, http://shg-oss.esy.es/wp-content/uploads/2014/09/ref_forum1.jpg 673w" sizes="(max-width: 673px) 100vw, 673px" />
+			     <img width="673" height="413" src="wp-content/uploads/2014/09/ref_forum1.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="ref_forum1" srcset="wp-content/uploads/2014/09/ref_forum1-300x184.jpg 300w, wp-content/uploads/2014/09/ref_forum1.jpg 673w" sizes="(max-width: 673px) 100vw, 673px" />
 				 <div class="mask">
 					<a href="portfolio/the-catcher-in-the-rye/index.html"  rel="portfolio" class="fancybox ajax" rel="plugin theme">
 						<h4>테마&#038;플러그인 검색</h4>
